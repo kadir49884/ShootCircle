@@ -1,4 +1,0 @@
-repository "ShootCircle@ShootCircle@cloud"
-  path "/"
-    br "/main"
-    co "/main"
